@@ -52,15 +52,13 @@ open index.html
 Or just open index.html in your browser.
 
 📂 Project Structure
-pgsql
-Copy
-Edit
 Password-Generator/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── Password-Generator.png
 └── README.md
+
 🔒 Password Strength Guide
 Strength	Criteria
 Weak	Short length or few character types
